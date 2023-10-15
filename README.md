@@ -1,4 +1,5 @@
 # Sample Application connecting to 2 Elasticsearch Instances
+This repository contains a Spring Boot application with Spring Data Elasticsearch.
 
 This sample application connects to 2 ES instances running on localhost at ports 9200 and 9201 (eg. a docker container).
 
